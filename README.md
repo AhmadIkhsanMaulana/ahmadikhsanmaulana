@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmadikhsanmaulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadikhsanmaulana" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmdikhsn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdikhsn_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmadikhsanmaulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmadikhsanmaulana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmadikhsanmaulana" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmadikhsanmaulana"/></a>
+<a href="https://instagram.com/ahmdikhsn_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmdikhsn_"/></a>
+<a href="https://www.youtube.com/c/ahmadikhsanmaulana" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ahmadikhsanmaulana"/></a>
 </p>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
